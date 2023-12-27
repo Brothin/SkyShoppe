@@ -45,6 +45,17 @@ https://youtu.be/v8iwPX8mw0w
 
 • Category Management: Admins can add, delete, update, and view product categories.
 
+• Admin details:
+
+Email ID:
+```
+admin@admin.com
+```
+Password:
+```
+123456
+```
+
 # Getting started
 
 ## Clone the repository
